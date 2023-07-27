@@ -46,8 +46,8 @@
 #include <WiFi.h>
 #include <WiFiMulti.h>
 #include <WiFiUdp.h>
-    const char *ssid     = "Bbox-Lux";
-    const char *password = "2427242711";
+    const char *ssid     = "@@@@@@@@@@";
+    const char *password = "@@@@@@@@@@";
           WiFiMulti WiFiMulti; 
       int TryNum = 0;
 
